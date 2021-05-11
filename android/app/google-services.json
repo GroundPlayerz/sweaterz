@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "320387534042",
+    "project_id": "sweaterz",
+    "storage_bucket": "sweaterz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320387534042:android:f2ed7f6145f8a8feea29e3",
+        "android_client_info": {
+          "package_name": "com.groundplayerz.sweaterz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320387534042-7660fhdtevb41b7geb7buis8ugjlhv9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8mgsyOAvRyCdiI3bklebkBQxEFgIQ8gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320387534042-7660fhdtevb41b7geb7buis8ugjlhv9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320387534042-3k0sbmqegk128s3fkct02i8dk9vv3ut4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.groundplayerz.sweaterz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+import 'package:freezed_annotation/freezed_annotation.dart';
+
+part 'user.freezed.dart';
+part 'user.g.dart';
+
+@freezed
+class User with _$User {
+  @JsonSerializable(fieldRename: FieldRename.snake)
+  factory User({
+    required int id,
+    required String email,
+    required String profileName,
+    required String profilePhotoUrl,
+    required String role, //admin, general
+    required String profileIntroduction,
+    required String createdTime,
+    String? updatedTime, //[nullable]
+  }) = _User;
+
+  factory User.fromJson(Map<String, dynamic> json) =>
+      _$UserFromJson(json); //all, follower, none
+}

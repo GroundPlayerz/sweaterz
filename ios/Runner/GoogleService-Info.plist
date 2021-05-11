@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>320387534042-3k0sbmqegk128s3fkct02i8dk9vv3ut4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.320387534042-3k0sbmqegk128s3fkct02i8dk9vv3ut4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>320387534042-hql6fpgi1248fo3fulos5ie334pljiop.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrcb4uB95ylHR5txv9c6M0y6iZOBxRdzg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>320387534042</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.groundplayerz.sweaterz</string>
+	<key>PROJECT_ID</key>
+	<string>sweaterz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sweaterz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:320387534042:ios:cc42285a02d7a8e9ea29e3</string>
+</dict>
+</plist>
