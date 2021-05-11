@@ -260,7 +260,6 @@ class _QuestionUploadScreenState extends State<QuestionUploadScreen> {
   }
 
   Widget _contentArea(BuildContext context) => Container(
-        height: 300,
         child: Padding(
           padding: EdgeInsets.fromLTRB(21, 10, 21, 21),
           child: TextField(
@@ -285,7 +284,6 @@ class _QuestionUploadScreenState extends State<QuestionUploadScreen> {
       );
 
   Widget _titleArea(BuildContext context) => Container(
-        height: 50,
         child: Padding(
           padding: EdgeInsets.fromLTRB(21, 10, 21, 21),
           child: TextField(
@@ -304,7 +302,7 @@ class _QuestionUploadScreenState extends State<QuestionUploadScreen> {
               disabledBorder: InputBorder.none,
             ),
             keyboardType: TextInputType.multiline,
-            maxLines: 1,
+            maxLines: null,
           ),
         ),
       );
